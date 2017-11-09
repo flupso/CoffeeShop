@@ -107,6 +107,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="wiet.resx">
       <DependentUpon>wiet.cs</DependentUpon>
@@ -123,6 +124,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smoking-green-hemp1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smoking-red-king-size-rolling-papers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s2472_large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\218_flamez-filter-tips-black_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41A35AQoHdL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

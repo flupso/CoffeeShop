@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.Label_Categorie = new System.Windows.Forms.Label();
@@ -37,9 +38,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Location = new System.Drawing.Point(160, 50);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(58, 17);
+            this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Welkom";
             // 
@@ -52,26 +54,29 @@
             "Eten",
             "Hasj",
             "Wiet"});
-            this.comboBox1.Location = new System.Drawing.Point(15, 74);
+            this.comboBox1.Location = new System.Drawing.Point(11, 318);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(641, 24);
+            this.comboBox1.Size = new System.Drawing.Size(482, 21);
             this.comboBox1.TabIndex = 1;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Label_Categorie
             // 
             this.Label_Categorie.AutoSize = true;
-            this.Label_Categorie.Location = new System.Drawing.Point(12, 54);
+            this.Label_Categorie.Location = new System.Drawing.Point(11, 303);
+            this.Label_Categorie.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Label_Categorie.Name = "Label_Categorie";
-            this.Label_Categorie.Size = new System.Drawing.Size(100, 17);
+            this.Label_Categorie.Size = new System.Drawing.Size(75, 13);
             this.Label_Categorie.TabIndex = 2;
             this.Label_Categorie.Text = "Kies Categorie";
             // 
             // button_volgende
             // 
-            this.button_volgende.Location = new System.Drawing.Point(217, 232);
+            this.button_volgende.Location = new System.Drawing.Point(14, 343);
+            this.button_volgende.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button_volgende.Name = "button_volgende";
-            this.button_volgende.Size = new System.Drawing.Size(240, 118);
+            this.button_volgende.Size = new System.Drawing.Size(93, 55);
             this.button_volgende.TabIndex = 3;
             this.button_volgende.Text = "Volgende";
             this.button_volgende.UseVisualStyleBackColor = true;
@@ -79,14 +84,17 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(687, 500);
+            this.ClientSize = new System.Drawing.Size(515, 406);
             this.Controls.Add(this.button_volgende);
             this.Controls.Add(this.Label_Categorie);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

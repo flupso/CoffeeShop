@@ -16,5 +16,10 @@ namespace CoffeeShop
         {
             InitializeComponent();
         }
+
+        private void Accessoires_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
