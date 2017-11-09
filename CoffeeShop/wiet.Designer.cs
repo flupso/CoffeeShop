@@ -30,33 +30,33 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wiet));
             this.labelWietAmnees = new System.Windows.Forms.Label();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
+            this.labelWietElDiablo = new System.Windows.Forms.Label();
+            this.labelWietGorillaGlue = new System.Windows.Forms.Label();
+            this.labelWietSuperJack = new System.Windows.Forms.Label();
+            this.labelWietPurpleHaze = new System.Windows.Forms.Label();
             this.labelWietLemonHaze = new System.Windows.Forms.Label();
             this.labelWietSantaMaria = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.buttonWietToeDiablo = new System.Windows.Forms.Button();
+            this.buttonWietToePurple = new System.Windows.Forms.Button();
+            this.buttonWietToeSuper = new System.Windows.Forms.Button();
+            this.buttonWietToeGorilla = new System.Windows.Forms.Button();
+            this.buttonWietToeLemon = new System.Windows.Forms.Button();
+            this.buttonWietToeSanta = new System.Windows.Forms.Button();
+            this.buttonWietToeAmnees = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
             this.SuspendLayout();
             // 
             // labelWietAmnees
@@ -69,178 +69,45 @@
             this.labelWietAmnees.TabIndex = 0;
             this.labelWietAmnees.Text = "Amnees";
             // 
-            // pictureBox16
+            // labelWietElDiablo
             // 
-            this.pictureBox16.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox16.Location = new System.Drawing.Point(566, 38);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox16.TabIndex = 40;
-            this.pictureBox16.TabStop = false;
+            this.labelWietElDiablo.AutoSize = true;
+            this.labelWietElDiablo.Location = new System.Drawing.Point(517, 38);
+            this.labelWietElDiablo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelWietElDiablo.Name = "labelWietElDiablo";
+            this.labelWietElDiablo.Size = new System.Drawing.Size(49, 13);
+            this.labelWietElDiablo.TabIndex = 54;
+            this.labelWietElDiablo.Text = "El Diablo";
             // 
-            // pictureBox1
+            // labelWietGorillaGlue
             // 
-            this.pictureBox1.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox1.Location = new System.Drawing.Point(95, 308);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 41;
-            this.pictureBox1.TabStop = false;
+            this.labelWietGorillaGlue.AutoSize = true;
+            this.labelWietGorillaGlue.Location = new System.Drawing.Point(257, 308);
+            this.labelWietGorillaGlue.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelWietGorillaGlue.Name = "labelWietGorillaGlue";
+            this.labelWietGorillaGlue.Size = new System.Drawing.Size(61, 13);
+            this.labelWietGorillaGlue.TabIndex = 56;
+            this.labelWietGorillaGlue.Text = "Gorilla Glue";
             // 
-            // pictureBox2
+            // labelWietSuperJack
             // 
-            this.pictureBox2.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox2.Location = new System.Drawing.Point(95, 38);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 42;
-            this.pictureBox2.TabStop = false;
+            this.labelWietSuperJack.AutoSize = true;
+            this.labelWietSuperJack.Location = new System.Drawing.Point(257, 176);
+            this.labelWietSuperJack.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelWietSuperJack.Name = "labelWietSuperJack";
+            this.labelWietSuperJack.Size = new System.Drawing.Size(61, 13);
+            this.labelWietSuperJack.TabIndex = 57;
+            this.labelWietSuperJack.Text = "Super Jack";
             // 
-            // pictureBox3
+            // labelWietPurpleHaze
             // 
-            this.pictureBox3.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox3.Location = new System.Drawing.Point(323, 308);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 43;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox4.Location = new System.Drawing.Point(323, 176);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 44;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox5.Location = new System.Drawing.Point(323, 38);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 45;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::CoffeeShop.Properties.Resources._218_flamez_filter_tips_black_1;
-            this.pictureBox6.Location = new System.Drawing.Point(95, 176);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(115, 93);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 46;
-            this.pictureBox6.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(14, 108);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 47;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(485, 108);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 48;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(243, 378);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 49;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(242, 108);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 50;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(243, 246);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
-            this.button5.TabIndex = 51;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(14, 378);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 23);
-            this.button6.TabIndex = 52;
-            this.button6.Text = "button6";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(14, 246);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(75, 23);
-            this.button7.TabIndex = 53;
-            this.button7.Text = "button7";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(517, 38);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
-            this.label1.TabIndex = 54;
-            this.label1.Text = "Soorten";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(274, 308);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 13);
-            this.label3.TabIndex = 56;
-            this.label3.Text = "Soorten";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(274, 176);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 13);
-            this.label4.TabIndex = 57;
-            this.label4.Text = "Soorten";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(274, 38);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(44, 13);
-            this.label5.TabIndex = 58;
-            this.label5.Text = "Soorten";
+            this.labelWietPurpleHaze.AutoSize = true;
+            this.labelWietPurpleHaze.Location = new System.Drawing.Point(253, 38);
+            this.labelWietPurpleHaze.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelWietPurpleHaze.Name = "labelWietPurpleHaze";
+            this.labelWietPurpleHaze.Size = new System.Drawing.Size(65, 13);
+            this.labelWietPurpleHaze.TabIndex = 58;
+            this.labelWietPurpleHaze.Text = "Purple Haze";
             // 
             // labelWietLemonHaze
             // 
@@ -262,24 +129,157 @@
             this.labelWietSantaMaria.TabIndex = 60;
             this.labelWietSantaMaria.Text = "Santa Maria";
             // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::CoffeeShop.Properties.Resources.TRAINWRECK_gb_e1436810789236;
+            this.pictureBox6.Location = new System.Drawing.Point(95, 176);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 46;
+            this.pictureBox6.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::CoffeeShop.Properties.Resources.Purple_Haze_578x387;
+            this.pictureBox5.Location = new System.Drawing.Point(323, 38);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 45;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::CoffeeShop.Properties.Resources.super_jack_marijuana_strain_21;
+            this.pictureBox4.Location = new System.Drawing.Point(323, 176);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 44;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::CoffeeShop.Properties.Resources.download;
+            this.pictureBox3.Location = new System.Drawing.Point(323, 308);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 43;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::CoffeeShop.Properties.Resources.amnesia_haze_automatic_feminized;
+            this.pictureBox2.Location = new System.Drawing.Point(95, 38);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 42;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CoffeeShop.Properties.Resources.SuperlemonHaze1000;
+            this.pictureBox1.Location = new System.Drawing.Point(95, 308);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 41;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox16
+            // 
+            this.pictureBox16.Image = global::CoffeeShop.Properties.Resources.diabloogFULL;
+            this.pictureBox16.Location = new System.Drawing.Point(566, 38);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(115, 93);
+            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox16.TabIndex = 40;
+            this.pictureBox16.TabStop = false;
+            // 
+            // buttonWietToeDiablo
+            // 
+            this.buttonWietToeDiablo.Location = new System.Drawing.Point(485, 108);
+            this.buttonWietToeDiablo.Name = "buttonWietToeDiablo";
+            this.buttonWietToeDiablo.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeDiablo.TabIndex = 61;
+            this.buttonWietToeDiablo.Text = "Toevoegen";
+            this.buttonWietToeDiablo.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToePurple
+            // 
+            this.buttonWietToePurple.Location = new System.Drawing.Point(242, 108);
+            this.buttonWietToePurple.Name = "buttonWietToePurple";
+            this.buttonWietToePurple.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToePurple.TabIndex = 62;
+            this.buttonWietToePurple.Text = "Toevoegen";
+            this.buttonWietToePurple.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToeSuper
+            // 
+            this.buttonWietToeSuper.Location = new System.Drawing.Point(242, 246);
+            this.buttonWietToeSuper.Name = "buttonWietToeSuper";
+            this.buttonWietToeSuper.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeSuper.TabIndex = 63;
+            this.buttonWietToeSuper.Text = "Toevoegen";
+            this.buttonWietToeSuper.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToeGorilla
+            // 
+            this.buttonWietToeGorilla.Location = new System.Drawing.Point(242, 378);
+            this.buttonWietToeGorilla.Name = "buttonWietToeGorilla";
+            this.buttonWietToeGorilla.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeGorilla.TabIndex = 64;
+            this.buttonWietToeGorilla.Text = "Toevoegen";
+            this.buttonWietToeGorilla.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToeLemon
+            // 
+            this.buttonWietToeLemon.Location = new System.Drawing.Point(14, 378);
+            this.buttonWietToeLemon.Name = "buttonWietToeLemon";
+            this.buttonWietToeLemon.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeLemon.TabIndex = 65;
+            this.buttonWietToeLemon.Text = "Toevoegen";
+            this.buttonWietToeLemon.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToeSanta
+            // 
+            this.buttonWietToeSanta.Location = new System.Drawing.Point(14, 246);
+            this.buttonWietToeSanta.Name = "buttonWietToeSanta";
+            this.buttonWietToeSanta.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeSanta.TabIndex = 66;
+            this.buttonWietToeSanta.Text = "Toevoegen";
+            this.buttonWietToeSanta.UseVisualStyleBackColor = true;
+            // 
+            // buttonWietToeAmnees
+            // 
+            this.buttonWietToeAmnees.Location = new System.Drawing.Point(14, 108);
+            this.buttonWietToeAmnees.Name = "buttonWietToeAmnees";
+            this.buttonWietToeAmnees.Size = new System.Drawing.Size(75, 23);
+            this.buttonWietToeAmnees.TabIndex = 67;
+            this.buttonWietToeAmnees.Text = "Toevoegen";
+            this.buttonWietToeAmnees.UseVisualStyleBackColor = true;
+            // 
             // wiet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(694, 413);
+            this.Controls.Add(this.buttonWietToeAmnees);
+            this.Controls.Add(this.buttonWietToeSanta);
+            this.Controls.Add(this.buttonWietToeLemon);
+            this.Controls.Add(this.buttonWietToeGorilla);
+            this.Controls.Add(this.buttonWietToeSuper);
+            this.Controls.Add(this.buttonWietToePurple);
+            this.Controls.Add(this.buttonWietToeDiablo);
             this.Controls.Add(this.labelWietSantaMaria);
             this.Controls.Add(this.labelWietLemonHaze);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.labelWietPurpleHaze);
+            this.Controls.Add(this.labelWietSuperJack);
+            this.Controls.Add(this.labelWietGorillaGlue);
+            this.Controls.Add(this.labelWietElDiablo);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
@@ -293,13 +293,13 @@
             this.Name = "wiet";
             this.Text = "wiet";
             this.Load += new System.EventHandler(this.wiet_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -315,18 +315,18 @@
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label labelWietElDiablo;
+        private System.Windows.Forms.Label labelWietGorillaGlue;
+        private System.Windows.Forms.Label labelWietSuperJack;
+        private System.Windows.Forms.Label labelWietPurpleHaze;
         private System.Windows.Forms.Label labelWietLemonHaze;
         private System.Windows.Forms.Label labelWietSantaMaria;
+        private System.Windows.Forms.Button buttonWietToeDiablo;
+        private System.Windows.Forms.Button buttonWietToePurple;
+        private System.Windows.Forms.Button buttonWietToeSuper;
+        private System.Windows.Forms.Button buttonWietToeGorilla;
+        private System.Windows.Forms.Button buttonWietToeLemon;
+        private System.Windows.Forms.Button buttonWietToeSanta;
+        private System.Windows.Forms.Button buttonWietToeAmnees;
     }
 }

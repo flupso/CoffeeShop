@@ -83,6 +83,36 @@ namespace CoffeeShop.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap amnesia_haze_automatic_feminized {
+            get {
+                object obj = ResourceManager.GetObject("amnesia-haze-automatic-feminized", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap diabloogFULL {
+            get {
+                object obj = ResourceManager.GetObject("diabloogFULL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download {
+            get {
+                object obj = ResourceManager.GetObject("download", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap images {
             get {
                 object obj = ResourceManager.GetObject("images", resourceCulture);
@@ -97,6 +127,16 @@ namespace CoffeeShop.Properties {
             get {
                 object obj = ResourceManager.GetObject("Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crus" +
                         "her-Hand-5-Layer.jpg_640x640", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Purple_Haze_578x387 {
+            get {
+                object obj = ResourceManager.GetObject("Purple Haze-578x387", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -157,6 +197,36 @@ namespace CoffeeShop.Properties {
         internal static System.Drawing.Bitmap smoking_red_king_size_rolling_papers {
             get {
                 object obj = ResourceManager.GetObject("smoking-red-king-size-rolling-papers", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap super_jack_marijuana_strain_21 {
+            get {
+                object obj = ResourceManager.GetObject("super-jack-marijuana-strain-21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SuperlemonHaze1000 {
+            get {
+                object obj = ResourceManager.GetObject("SuperlemonHaze1000", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TRAINWRECK_gb_e1436810789236 {
+            get {
+                object obj = ResourceManager.GetObject("TRAINWRECK-gb-e1436810789236", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

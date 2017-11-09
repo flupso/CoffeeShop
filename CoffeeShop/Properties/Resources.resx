@@ -118,34 +118,55 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="s2472_large" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\s2472_large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="41A35AQoHdL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\41A35AQoHdL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="218_flamez-filter-tips-black_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\218_flamez-filter-tips-black_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smoking-green-hemp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smoking-green-hemp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="s2472_large" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\s2472_large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="smoking-green-hemp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smoking-green-hemp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="SuperlemonHaze1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SuperlemonHaze1000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Purple Haze-578x387" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Purple Haze-578x387.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="super-jack-marijuana-strain-21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\super-jack-marijuana-strain-21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="218_flamez-filter-tips-black_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\218_flamez-filter-tips-black_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="smoking-red-king-size-rolling-papers" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\smoking-red-king-size-rolling-papers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="TRAINWRECK-gb-e1436810789236" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TRAINWRECK-gb-e1436810789236.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amnesia-haze-automatic-feminized" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\amnesia-haze-automatic-feminized.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="diabloogFULL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diabloogFULL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
