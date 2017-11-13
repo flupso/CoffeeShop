@@ -19,15 +19,16 @@ namespace CoffeeShop
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+  
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
 
-
-        private void button_volgende_Click(object sender, EventArgs e)
+        private void button_Accessoires_Click(object sender, EventArgs e)
         {
-            int selectedIndex = comboBox1.SelectedIndex;
-            Object selectedItem = comboBox1.SelectedItem;
-
             Accessoires newform = new Accessoires();
             this.Hide();
             newform.ShowDialog();
@@ -35,8 +36,39 @@ namespace CoffeeShop
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void button_Drinken_Click(object sender, EventArgs e)
         {
+            Drinken newform = new Drinken();
+            this.Hide();
+            newform.ShowDialog();
+            this.Show();
+
+        }
+
+        private void button_Eten_Click(object sender, EventArgs e)
+        {
+            Eten newform = new Eten();
+            this.Hide();
+            newform.ShowDialog();
+            this.Show();
+
+        }
+
+        private void button_Hasj_Click(object sender, EventArgs e)
+        {
+            Hasj newform = new Hasj();
+            this.Hide();
+            newform.ShowDialog();
+            this.Show();
+
+        }
+
+        private void button_Wiet_Click(object sender, EventArgs e)
+        {
+            wiet newform = new wiet();
+            this.Hide();
+            newform.ShowDialog();
+            this.Show();
 
         }
     }

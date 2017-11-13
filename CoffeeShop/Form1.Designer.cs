@@ -30,69 +30,96 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.Label_Categorie = new System.Windows.Forms.Label();
-            this.button_volgende = new System.Windows.Forms.Button();
+            this.button_Drinken = new System.Windows.Forms.Button();
+            this.button_Eten = new System.Windows.Forms.Button();
+            this.button_Hasj = new System.Windows.Forms.Button();
+            this.button_Wiet = new System.Windows.Forms.Button();
+            this.button_Accessoires = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(160, 50);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 13);
+            this.label1.Size = new System.Drawing.Size(58, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Welkom";
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Accessoires",
-            "Drinken",
-            "Eten",
-            "Hasj",
-            "Wiet"});
-            this.comboBox1.Location = new System.Drawing.Point(11, 318);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(482, 21);
-            this.comboBox1.TabIndex = 1;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Label_Categorie
             // 
             this.Label_Categorie.AutoSize = true;
-            this.Label_Categorie.Location = new System.Drawing.Point(11, 303);
-            this.Label_Categorie.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Label_Categorie.Location = new System.Drawing.Point(12, 73);
             this.Label_Categorie.Name = "Label_Categorie";
-            this.Label_Categorie.Size = new System.Drawing.Size(75, 13);
+            this.Label_Categorie.Size = new System.Drawing.Size(121, 17);
             this.Label_Categorie.TabIndex = 2;
-            this.Label_Categorie.Text = "Kies Categorie";
+            this.Label_Categorie.Text = "Kies uw Categorie";
             // 
-            // button_volgende
+            // button_Drinken
             // 
-            this.button_volgende.Location = new System.Drawing.Point(14, 343);
-            this.button_volgende.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.button_volgende.Name = "button_volgende";
-            this.button_volgende.Size = new System.Drawing.Size(93, 55);
-            this.button_volgende.TabIndex = 3;
-            this.button_volgende.Text = "Volgende";
-            this.button_volgende.UseVisualStyleBackColor = true;
-            this.button_volgende.Click += new System.EventHandler(this.button_volgende_Click);
+            this.button_Drinken.Location = new System.Drawing.Point(140, 301);
+            this.button_Drinken.Name = "button_Drinken";
+            this.button_Drinken.Size = new System.Drawing.Size(130, 96);
+            this.button_Drinken.TabIndex = 4;
+            this.button_Drinken.Text = "Drinken";
+            this.button_Drinken.UseVisualStyleBackColor = true;
+            this.button_Drinken.Click += new System.EventHandler(this.button_Drinken_Click);
+            // 
+            // button_Eten
+            // 
+            this.button_Eten.Location = new System.Drawing.Point(276, 301);
+            this.button_Eten.Name = "button_Eten";
+            this.button_Eten.Size = new System.Drawing.Size(130, 96);
+            this.button_Eten.TabIndex = 5;
+            this.button_Eten.Text = "Eten";
+            this.button_Eten.UseVisualStyleBackColor = true;
+            this.button_Eten.Click += new System.EventHandler(this.button_Eten_Click);
+            // 
+            // button_Hasj
+            // 
+            this.button_Hasj.Location = new System.Drawing.Point(412, 301);
+            this.button_Hasj.Name = "button_Hasj";
+            this.button_Hasj.Size = new System.Drawing.Size(130, 96);
+            this.button_Hasj.TabIndex = 6;
+            this.button_Hasj.Text = "Hasj";
+            this.button_Hasj.UseVisualStyleBackColor = true;
+            this.button_Hasj.Click += new System.EventHandler(this.button_Hasj_Click);
+            // 
+            // button_Wiet
+            // 
+            this.button_Wiet.Location = new System.Drawing.Point(548, 301);
+            this.button_Wiet.Name = "button_Wiet";
+            this.button_Wiet.Size = new System.Drawing.Size(130, 96);
+            this.button_Wiet.TabIndex = 7;
+            this.button_Wiet.Text = "Wiet";
+            this.button_Wiet.UseVisualStyleBackColor = true;
+            this.button_Wiet.Click += new System.EventHandler(this.button_Wiet_Click);
+            // 
+            // button_Accessoires
+            // 
+            this.button_Accessoires.Location = new System.Drawing.Point(6, 301);
+            this.button_Accessoires.Name = "button_Accessoires";
+            this.button_Accessoires.Size = new System.Drawing.Size(130, 96);
+            this.button_Accessoires.TabIndex = 8;
+            this.button_Accessoires.Text = "Accessoires";
+            this.button_Accessoires.UseVisualStyleBackColor = true;
+            this.button_Accessoires.Click += new System.EventHandler(this.button_Accessoires_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(515, 406);
-            this.Controls.Add(this.button_volgende);
+            this.ClientSize = new System.Drawing.Size(687, 500);
+            this.Controls.Add(this.button_Accessoires);
+            this.Controls.Add(this.button_Wiet);
+            this.Controls.Add(this.button_Hasj);
+            this.Controls.Add(this.button_Eten);
+            this.Controls.Add(this.button_Drinken);
             this.Controls.Add(this.Label_Categorie);
-            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -103,9 +130,12 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label Label_Categorie;
-        private System.Windows.Forms.Button button_volgende;
+        private System.Windows.Forms.Button button_Drinken;
+        private System.Windows.Forms.Button button_Eten;
+        private System.Windows.Forms.Button button_Hasj;
+        private System.Windows.Forms.Button button_Wiet;
+        private System.Windows.Forms.Button button_Accessoires;
     }
 }
 
