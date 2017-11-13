@@ -155,5 +155,26 @@
   <ItemGroup>
     <None Include="Resources\images.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amnesia-haze-automatic-feminized.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRAINWRECK-gb-e1436810789236.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SuperlemonHaze1000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purple Haze-578x387.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\super-jack-marijuana-strain-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diabloogFULL.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
