@@ -182,5 +182,11 @@
   <ItemGroup>
     <None Include="Resources\white-widow.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gizmodo-high-tech-620x349.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

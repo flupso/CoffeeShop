@@ -83,6 +83,16 @@ namespace CoffeeShop.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _7b717406486d2fbf1d09541b3ab2eaa0__weed_wallpaper_weed_art {
+            get {
+                object obj = ResourceManager.GetObject("7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap amnesia_haze_automatic_feminized {
             get {
                 object obj = ResourceManager.GetObject("amnesia-haze-automatic-feminized", resourceCulture);
@@ -106,6 +116,16 @@ namespace CoffeeShop.Properties {
         internal static System.Drawing.Bitmap download {
             get {
                 object obj = ResourceManager.GetObject("download", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gizmodo_high_tech_620x349 {
+            get {
+                object obj = ResourceManager.GetObject("gizmodo-high-tech-620x349", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

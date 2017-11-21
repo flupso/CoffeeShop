@@ -124,6 +124,9 @@
   <data name="41A35AQoHdL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\41A35AQoHdL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="white-widow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white-widow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -166,13 +169,16 @@
   <data name="diabloogFULL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\diabloogFULL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="white-widow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white-widow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gizmodo-high-tech-620x349" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gizmodo-high-tech-620x349.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
