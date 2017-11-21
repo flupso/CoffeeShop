@@ -134,6 +134,16 @@ namespace CoffeeShop.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap northern_lights {
+            get {
+                object obj = ResourceManager.GetObject("northern-lights", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Purple_Haze_578x387 {
             get {
                 object obj = ResourceManager.GetObject("Purple Haze-578x387", resourceCulture);
@@ -227,6 +237,16 @@ namespace CoffeeShop.Properties {
         internal static System.Drawing.Bitmap TRAINWRECK_gb_e1436810789236 {
             get {
                 object obj = ResourceManager.GetObject("TRAINWRECK-gb-e1436810789236", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_widow {
+            get {
+                object obj = ResourceManager.GetObject("white-widow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
