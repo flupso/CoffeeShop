@@ -188,5 +188,65 @@
   <ItemGroup>
     <None Include="Resources\gizmodo-high-tech-620x349.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chewymints_cat_en.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sandwich.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tosti-Ham-Kaas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tosti-hamburger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutterstock_200534483-735x340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bos-ice-tea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fanta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\size_516_290_fritz_cola_klein.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tonic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sport-aquarius-500ml.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stock-Red-bull.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tagalong-milkshake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy kush].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kingHassan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Morrocan-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\polm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\polmplus.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

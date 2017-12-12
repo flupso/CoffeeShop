@@ -118,32 +118,38 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="s2472_large" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\s2472_large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="polm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\polm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="41A35AQoHdL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\41A35AQoHdL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gizmodo-high-tech-620x349" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gizmodo-high-tech-620x349.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="white-widow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white-widow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pizza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pizza.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sport-aquarius-500ml" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sport-aquarius-500ml.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="smoking-green-hemp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smoking-green-hemp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="candy kush]" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy kush].jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="SuperlemonHaze1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SuperlemonHaze1000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TRAINWRECK-gb-e1436810789236" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TRAINWRECK-gb-e1436810789236.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="amnesia-haze-automatic-feminized" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\amnesia-haze-automatic-feminized.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="super-jack-marijuana-strain-21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\super-jack-marijuana-strain-21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="northern-lights" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\northern-lights.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bos-ice-tea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bos-ice-tea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shutterstock_200534483-735x340" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shutterstock_200534483-735x340.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fanta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fanta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Purple Haze-578x387" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Purple Haze-578x387.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,34 +157,88 @@
   <data name="Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Smoking_King_Size_Black_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers-1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="super-jack-marijuana-strain-21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\super-jack-marijuana-strain-21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="218_flamez-filter-tips-black_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\218_flamez-filter-tips-black_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="smoking-red-king-size-rolling-papers" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\smoking-red-king-size-rolling-papers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TRAINWRECK-gb-e1436810789236" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TRAINWRECK-gb-e1436810789236.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Morrocan-" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Morrocan-.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tonic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tonic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stock-Red-bull" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stock-Red-bull.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smoking_King_Size_Gold_Slim_Thin_Lightweight_De-Luxe_Cigarette_Papers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuperlemonHaze1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SuperlemonHaze1000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="size_516_290_fritz_cola_klein" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\size_516_290_fritz_cola_klein.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="diabloogFULL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\diabloogFULL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7b717406486d2fbf1d09541b3ab2eaa0--weed-wallpaper-weed-art.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="s2472_large" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\s2472_large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="41A35AQoHdL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41A35AQoHdL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amnesia-haze-automatic-feminized" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\amnesia-haze-automatic-feminized.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tagalong-milkshake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tagalong-milkshake.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chewymints_cat_en" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chewymints_cat_en.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sandwich" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sandwich.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="northern-lights" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\northern-lights.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kingHassan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kingHassan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smoking-green-hemp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smoking-green-hemp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tosti-hamburger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tosti-hamburger.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white-widow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white-widow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="218_flamez-filter-tips-black_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\218_flamez-filter-tips-black_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Smoking-King-Size-Brown-un-bleached-cigarette-papers-natural-brown_530x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gizmodo-high-tech-620x349" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gizmodo-high-tech-620x349.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Tosti-Ham-Kaas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tosti-Ham-Kaas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leaf-Herb-grinder-Design-Herbal-Herb-Tobacco-Weed-Grinder-Hookah-Smoke-Pipes-Crusher-Hand-5-Layer.jpg_640x640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="polmplus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\polmplus.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
