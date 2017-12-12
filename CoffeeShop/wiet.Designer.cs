@@ -56,6 +56,15 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.label_Prijs_Amnees = new System.Windows.Forms.Label();
+            this.label_Prijs_Purple_Haze = new System.Windows.Forms.Label();
+            this.label_Prijs_El_Diablo = new System.Windows.Forms.Label();
+            this.label_Prijs_Santa = new System.Windows.Forms.Label();
+            this.label_Prijs_Super = new System.Windows.Forms.Label();
+            this.label_Prijs_Northern = new System.Windows.Forms.Label();
+            this.label_Prijs_Lemon = new System.Windows.Forms.Label();
+            this.label_Prijs_Gorilla = new System.Windows.Forms.Label();
+            this.label_Prijs_White = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -70,7 +79,7 @@
             // labelWietAmnees
             // 
             this.labelWietAmnees.AutoSize = true;
-            this.labelWietAmnees.Location = new System.Drawing.Point(45, 38);
+            this.labelWietAmnees.Location = new System.Drawing.Point(12, 38);
             this.labelWietAmnees.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietAmnees.Name = "labelWietAmnees";
             this.labelWietAmnees.Size = new System.Drawing.Size(45, 13);
@@ -80,7 +89,7 @@
             // labelWietElDiablo
             // 
             this.labelWietElDiablo.AutoSize = true;
-            this.labelWietElDiablo.Location = new System.Drawing.Point(517, 38);
+            this.labelWietElDiablo.Location = new System.Drawing.Point(482, 38);
             this.labelWietElDiablo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietElDiablo.Name = "labelWietElDiablo";
             this.labelWietElDiablo.Size = new System.Drawing.Size(49, 13);
@@ -90,7 +99,7 @@
             // labelWietGorillaGlue
             // 
             this.labelWietGorillaGlue.AutoSize = true;
-            this.labelWietGorillaGlue.Location = new System.Drawing.Point(257, 308);
+            this.labelWietGorillaGlue.Location = new System.Drawing.Point(239, 308);
             this.labelWietGorillaGlue.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietGorillaGlue.Name = "labelWietGorillaGlue";
             this.labelWietGorillaGlue.Size = new System.Drawing.Size(61, 13);
@@ -100,7 +109,7 @@
             // labelWietSuperJack
             // 
             this.labelWietSuperJack.AutoSize = true;
-            this.labelWietSuperJack.Location = new System.Drawing.Point(257, 176);
+            this.labelWietSuperJack.Location = new System.Drawing.Point(239, 176);
             this.labelWietSuperJack.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietSuperJack.Name = "labelWietSuperJack";
             this.labelWietSuperJack.Size = new System.Drawing.Size(61, 13);
@@ -110,7 +119,7 @@
             // labelWietPurpleHaze
             // 
             this.labelWietPurpleHaze.AutoSize = true;
-            this.labelWietPurpleHaze.Location = new System.Drawing.Point(253, 38);
+            this.labelWietPurpleHaze.Location = new System.Drawing.Point(239, 38);
             this.labelWietPurpleHaze.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietPurpleHaze.Name = "labelWietPurpleHaze";
             this.labelWietPurpleHaze.Size = new System.Drawing.Size(65, 13);
@@ -120,7 +129,7 @@
             // labelWietLemonHaze
             // 
             this.labelWietLemonHaze.AutoSize = true;
-            this.labelWietLemonHaze.Location = new System.Drawing.Point(23, 308);
+            this.labelWietLemonHaze.Location = new System.Drawing.Point(11, 308);
             this.labelWietLemonHaze.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietLemonHaze.Name = "labelWietLemonHaze";
             this.labelWietLemonHaze.Size = new System.Drawing.Size(67, 13);
@@ -130,7 +139,7 @@
             // labelWietSantaMaria
             // 
             this.labelWietSantaMaria.AutoSize = true;
-            this.labelWietSantaMaria.Location = new System.Drawing.Point(26, 176);
+            this.labelWietSantaMaria.Location = new System.Drawing.Point(11, 176);
             this.labelWietSantaMaria.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietSantaMaria.Name = "labelWietSantaMaria";
             this.labelWietSantaMaria.Size = new System.Drawing.Size(64, 13);
@@ -221,7 +230,7 @@
             // labelWietNorthernLight
             // 
             this.labelWietNorthernLight.AutoSize = true;
-            this.labelWietNorthernLight.Location = new System.Drawing.Point(490, 176);
+            this.labelWietNorthernLight.Location = new System.Drawing.Point(482, 176);
             this.labelWietNorthernLight.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietNorthernLight.Name = "labelWietNorthernLight";
             this.labelWietNorthernLight.Size = new System.Drawing.Size(74, 13);
@@ -231,7 +240,7 @@
             // labelWietWhiteWidow
             // 
             this.labelWietWhiteWidow.AutoSize = true;
-            this.labelWietWhiteWidow.Location = new System.Drawing.Point(498, 308);
+            this.labelWietWhiteWidow.Location = new System.Drawing.Point(482, 308);
             this.labelWietWhiteWidow.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelWietWhiteWidow.Name = "labelWietWhiteWidow";
             this.labelWietWhiteWidow.Size = new System.Drawing.Size(71, 13);
@@ -330,11 +339,101 @@
             this.pictureBox16.TabIndex = 40;
             this.pictureBox16.TabStop = false;
             // 
+            // label_Prijs_Amnees
+            // 
+            this.label_Prijs_Amnees.AutoSize = true;
+            this.label_Prijs_Amnees.Location = new System.Drawing.Point(12, 92);
+            this.label_Prijs_Amnees.Name = "label_Prijs_Amnees";
+            this.label_Prijs_Amnees.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Amnees.TabIndex = 89;
+            this.label_Prijs_Amnees.Text = "€ 8,00";
+            // 
+            // label_Prijs_Purple_Haze
+            // 
+            this.label_Prijs_Purple_Haze.AutoSize = true;
+            this.label_Prijs_Purple_Haze.Location = new System.Drawing.Point(239, 92);
+            this.label_Prijs_Purple_Haze.Name = "label_Prijs_Purple_Haze";
+            this.label_Prijs_Purple_Haze.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_Purple_Haze.TabIndex = 90;
+            this.label_Prijs_Purple_Haze.Text = "€ 13,00";
+            // 
+            // label_Prijs_El_Diablo
+            // 
+            this.label_Prijs_El_Diablo.AutoSize = true;
+            this.label_Prijs_El_Diablo.Location = new System.Drawing.Point(482, 92);
+            this.label_Prijs_El_Diablo.Name = "label_Prijs_El_Diablo";
+            this.label_Prijs_El_Diablo.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_El_Diablo.TabIndex = 91;
+            this.label_Prijs_El_Diablo.Text = "€ 14,50";
+            // 
+            // label_Prijs_Santa
+            // 
+            this.label_Prijs_Santa.AutoSize = true;
+            this.label_Prijs_Santa.Location = new System.Drawing.Point(12, 230);
+            this.label_Prijs_Santa.Name = "label_Prijs_Santa";
+            this.label_Prijs_Santa.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Santa.TabIndex = 92;
+            this.label_Prijs_Santa.Text = "€ 8,50";
+            // 
+            // label_Prijs_Super
+            // 
+            this.label_Prijs_Super.AutoSize = true;
+            this.label_Prijs_Super.Location = new System.Drawing.Point(239, 230);
+            this.label_Prijs_Super.Name = "label_Prijs_Super";
+            this.label_Prijs_Super.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_Super.TabIndex = 93;
+            this.label_Prijs_Super.Text = "€ 10,00";
+            // 
+            // label_Prijs_Northern
+            // 
+            this.label_Prijs_Northern.AutoSize = true;
+            this.label_Prijs_Northern.Location = new System.Drawing.Point(482, 230);
+            this.label_Prijs_Northern.Name = "label_Prijs_Northern";
+            this.label_Prijs_Northern.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Northern.TabIndex = 94;
+            this.label_Prijs_Northern.Text = "€ 9,50";
+            // 
+            // label_Prijs_Lemon
+            // 
+            this.label_Prijs_Lemon.AutoSize = true;
+            this.label_Prijs_Lemon.Location = new System.Drawing.Point(12, 362);
+            this.label_Prijs_Lemon.Name = "label_Prijs_Lemon";
+            this.label_Prijs_Lemon.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_Lemon.TabIndex = 95;
+            this.label_Prijs_Lemon.Text = "€ 12,00";
+            // 
+            // label_Prijs_Gorilla
+            // 
+            this.label_Prijs_Gorilla.AutoSize = true;
+            this.label_Prijs_Gorilla.Location = new System.Drawing.Point(239, 362);
+            this.label_Prijs_Gorilla.Name = "label_Prijs_Gorilla";
+            this.label_Prijs_Gorilla.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_Gorilla.TabIndex = 96;
+            this.label_Prijs_Gorilla.Text = "€ 15,50";
+            // 
+            // label_Prijs_White
+            // 
+            this.label_Prijs_White.AutoSize = true;
+            this.label_Prijs_White.Location = new System.Drawing.Point(482, 362);
+            this.label_Prijs_White.Name = "label_Prijs_White";
+            this.label_Prijs_White.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_White.TabIndex = 97;
+            this.label_Prijs_White.Text = "€ 6,50";
+            // 
             // wiet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(882, 504);
+            this.Controls.Add(this.label_Prijs_White);
+            this.Controls.Add(this.label_Prijs_Gorilla);
+            this.Controls.Add(this.label_Prijs_Lemon);
+            this.Controls.Add(this.label_Prijs_Northern);
+            this.Controls.Add(this.label_Prijs_Super);
+            this.Controls.Add(this.label_Prijs_Santa);
+            this.Controls.Add(this.label_Prijs_El_Diablo);
+            this.Controls.Add(this.label_Prijs_Purple_Haze);
+            this.Controls.Add(this.label_Prijs_Amnees);
             this.Controls.Add(this.labelWietWhiteWidow);
             this.Controls.Add(this.labelWietNorthernLight);
             this.Controls.Add(this.button2);
@@ -410,5 +509,14 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label labelWietNorthernLight;
         private System.Windows.Forms.Label labelWietWhiteWidow;
+        private System.Windows.Forms.Label label_Prijs_Amnees;
+        private System.Windows.Forms.Label label_Prijs_Purple_Haze;
+        private System.Windows.Forms.Label label_Prijs_El_Diablo;
+        private System.Windows.Forms.Label label_Prijs_Santa;
+        private System.Windows.Forms.Label label_Prijs_Super;
+        private System.Windows.Forms.Label label_Prijs_Northern;
+        private System.Windows.Forms.Label label_Prijs_Lemon;
+        private System.Windows.Forms.Label label_Prijs_Gorilla;
+        private System.Windows.Forms.Label label_Prijs_White;
     }
 }

@@ -335,7 +335,7 @@
             this.label_Prijs_Thee.Name = "label_Prijs_Thee";
             this.label_Prijs_Thee.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Thee.TabIndex = 88;
-            this.label_Prijs_Thee.Text = "€ 2,00";
+            this.label_Prijs_Thee.Text = "€ 2,50";
             // 
             // label_Prijs_Koffie
             // 
@@ -353,7 +353,7 @@
             this.label_Prijs_BOSS.Name = "label_Prijs_BOSS";
             this.label_Prijs_BOSS.Size = new System.Drawing.Size(40, 13);
             this.label_Prijs_BOSS.TabIndex = 90;
-            this.label_Prijs_BOSS.Text = "€  1,00";
+            this.label_Prijs_BOSS.Text = "€  1,80";
             // 
             // label_Prijs_Fanta
             // 
@@ -362,7 +362,7 @@
             this.label_Prijs_Fanta.Name = "label_Prijs_Fanta";
             this.label_Prijs_Fanta.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Fanta.TabIndex = 91;
-            this.label_Prijs_Fanta.Text = "€ 1,00";
+            this.label_Prijs_Fanta.Text = "€ 1,90";
             // 
             // label_Prijs_Fritz
             // 
@@ -371,7 +371,7 @@
             this.label_Prijs_Fritz.Name = "label_Prijs_Fritz";
             this.label_Prijs_Fritz.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Fritz.TabIndex = 92;
-            this.label_Prijs_Fritz.Text = "€ 2,00";
+            this.label_Prijs_Fritz.Text = "€ 2,30";
             // 
             // label_Prijs_Tonic
             // 
@@ -380,7 +380,7 @@
             this.label_Prijs_Tonic.Name = "label_Prijs_Tonic";
             this.label_Prijs_Tonic.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Tonic.TabIndex = 93;
-            this.label_Prijs_Tonic.Text = "€ 1,00";
+            this.label_Prijs_Tonic.Text = "€ 1,50";
             // 
             // label_Prijs_Aquarius
             // 
@@ -389,7 +389,7 @@
             this.label_Prijs_Aquarius.Name = "label_Prijs_Aquarius";
             this.label_Prijs_Aquarius.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Aquarius.TabIndex = 94;
-            this.label_Prijs_Aquarius.Text = "€ 2,00";
+            this.label_Prijs_Aquarius.Text = "€ 2,50";
             // 
             // label_Prijs_Red_Bull
             // 
@@ -398,7 +398,7 @@
             this.label_Prijs_Red_Bull.Name = "label_Prijs_Red_Bull";
             this.label_Prijs_Red_Bull.Size = new System.Drawing.Size(37, 13);
             this.label_Prijs_Red_Bull.TabIndex = 95;
-            this.label_Prijs_Red_Bull.Text = "€ 2,00";
+            this.label_Prijs_Red_Bull.Text = "€ 2,80";
             // 
             // label_Prijs_Milkshake
             // 

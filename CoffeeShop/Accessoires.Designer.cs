@@ -56,6 +56,15 @@
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBoxSmokingGold = new System.Windows.Forms.PictureBox();
+            this.label_Prijs_LV_Green = new System.Windows.Forms.Label();
+            this.label_Prijs_LV_Red = new System.Windows.Forms.Label();
+            this.label_Prijs_LV_Eco = new System.Windows.Forms.Label();
+            this.label_Prijs_LV_Black = new System.Windows.Forms.Label();
+            this.label_Prijs_LV_Brown = new System.Windows.Forms.Label();
+            this.label_Prijs_LV_Gold = new System.Windows.Forms.Label();
+            this.label_Prijs_Crusher = new System.Windows.Forms.Label();
+            this.label_Prijs_Lighter = new System.Windows.Forms.Label();
+            this.label_Prijs_Tips = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
@@ -319,11 +328,101 @@
             this.pictureBoxSmokingGold.TabIndex = 7;
             this.pictureBoxSmokingGold.TabStop = false;
             // 
+            // label_Prijs_LV_Green
+            // 
+            this.label_Prijs_LV_Green.AutoSize = true;
+            this.label_Prijs_LV_Green.Location = new System.Drawing.Point(237, 398);
+            this.label_Prijs_LV_Green.Name = "label_Prijs_LV_Green";
+            this.label_Prijs_LV_Green.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Green.TabIndex = 89;
+            this.label_Prijs_LV_Green.Text = "€ 1,00";
+            // 
+            // label_Prijs_LV_Red
+            // 
+            this.label_Prijs_LV_Red.AutoSize = true;
+            this.label_Prijs_LV_Red.Location = new System.Drawing.Point(9, 398);
+            this.label_Prijs_LV_Red.Name = "label_Prijs_LV_Red";
+            this.label_Prijs_LV_Red.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Red.TabIndex = 90;
+            this.label_Prijs_LV_Red.Text = "€ 1,00";
+            // 
+            // label_Prijs_LV_Eco
+            // 
+            this.label_Prijs_LV_Eco.AutoSize = true;
+            this.label_Prijs_LV_Eco.Location = new System.Drawing.Point(472, 398);
+            this.label_Prijs_LV_Eco.Name = "label_Prijs_LV_Eco";
+            this.label_Prijs_LV_Eco.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Eco.TabIndex = 91;
+            this.label_Prijs_LV_Eco.Text = "€ 1,00";
+            // 
+            // label_Prijs_LV_Black
+            // 
+            this.label_Prijs_LV_Black.AutoSize = true;
+            this.label_Prijs_LV_Black.Location = new System.Drawing.Point(472, 241);
+            this.label_Prijs_LV_Black.Name = "label_Prijs_LV_Black";
+            this.label_Prijs_LV_Black.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Black.TabIndex = 92;
+            this.label_Prijs_LV_Black.Text = "€ 1,00";
+            // 
+            // label_Prijs_LV_Brown
+            // 
+            this.label_Prijs_LV_Brown.AutoSize = true;
+            this.label_Prijs_LV_Brown.Location = new System.Drawing.Point(237, 241);
+            this.label_Prijs_LV_Brown.Name = "label_Prijs_LV_Brown";
+            this.label_Prijs_LV_Brown.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Brown.TabIndex = 93;
+            this.label_Prijs_LV_Brown.Text = "€ 1,00";
+            // 
+            // label_Prijs_LV_Gold
+            // 
+            this.label_Prijs_LV_Gold.AutoSize = true;
+            this.label_Prijs_LV_Gold.Location = new System.Drawing.Point(9, 240);
+            this.label_Prijs_LV_Gold.Name = "label_Prijs_LV_Gold";
+            this.label_Prijs_LV_Gold.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_LV_Gold.TabIndex = 94;
+            this.label_Prijs_LV_Gold.Text = "€ 1,00";
+            // 
+            // label_Prijs_Crusher
+            // 
+            this.label_Prijs_Crusher.AutoSize = true;
+            this.label_Prijs_Crusher.Location = new System.Drawing.Point(472, 82);
+            this.label_Prijs_Crusher.Name = "label_Prijs_Crusher";
+            this.label_Prijs_Crusher.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Crusher.TabIndex = 95;
+            this.label_Prijs_Crusher.Text = "€ 5,00";
+            // 
+            // label_Prijs_Lighter
+            // 
+            this.label_Prijs_Lighter.AutoSize = true;
+            this.label_Prijs_Lighter.Location = new System.Drawing.Point(237, 82);
+            this.label_Prijs_Lighter.Name = "label_Prijs_Lighter";
+            this.label_Prijs_Lighter.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Lighter.TabIndex = 96;
+            this.label_Prijs_Lighter.Text = "€ 1,70";
+            // 
+            // label_Prijs_Tips
+            // 
+            this.label_Prijs_Tips.AutoSize = true;
+            this.label_Prijs_Tips.Location = new System.Drawing.Point(9, 82);
+            this.label_Prijs_Tips.Name = "label_Prijs_Tips";
+            this.label_Prijs_Tips.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Tips.TabIndex = 97;
+            this.label_Prijs_Tips.Text = "€ 0,60";
+            // 
             // Accessoires
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(750, 479);
+            this.Controls.Add(this.label_Prijs_Tips);
+            this.Controls.Add(this.label_Prijs_Lighter);
+            this.Controls.Add(this.label_Prijs_Crusher);
+            this.Controls.Add(this.label_Prijs_LV_Gold);
+            this.Controls.Add(this.label_Prijs_LV_Brown);
+            this.Controls.Add(this.label_Prijs_LV_Black);
+            this.Controls.Add(this.label_Prijs_LV_Eco);
+            this.Controls.Add(this.label_Prijs_LV_Red);
+            this.Controls.Add(this.label_Prijs_LV_Green);
             this.Controls.Add(this.pictureBox16);
             this.Controls.Add(this.pictureBox15);
             this.Controls.Add(this.pictureBox14);
@@ -352,7 +451,7 @@
             this.Controls.Add(this.buttonAccToe1);
             this.Controls.Add(this.pictureBoxSmokingGold);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Accessoires";
             this.Text = "Accessoires";
             this.Load += new System.EventHandler(this.Accessoires_Load);
@@ -399,5 +498,14 @@
         private System.Windows.Forms.PictureBox pictureBox14;
         private System.Windows.Forms.PictureBox pictureBox15;
         private System.Windows.Forms.PictureBox pictureBox16;
+        private System.Windows.Forms.Label label_Prijs_LV_Green;
+        private System.Windows.Forms.Label label_Prijs_LV_Red;
+        private System.Windows.Forms.Label label_Prijs_LV_Eco;
+        private System.Windows.Forms.Label label_Prijs_LV_Black;
+        private System.Windows.Forms.Label label_Prijs_LV_Brown;
+        private System.Windows.Forms.Label label_Prijs_LV_Gold;
+        private System.Windows.Forms.Label label_Prijs_Crusher;
+        private System.Windows.Forms.Label label_Prijs_Lighter;
+        private System.Windows.Forms.Label label_Prijs_Tips;
     }
 }

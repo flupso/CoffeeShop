@@ -47,6 +47,12 @@
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.label_Prijs_Tosti_B = new System.Windows.Forms.Label();
+            this.label_Prijs_Tosti_HK = new System.Windows.Forms.Label();
+            this.label_Prijs_Sandwich = new System.Windows.Forms.Label();
+            this.label_Prijs_Pizza = new System.Windows.Forms.Label();
+            this.label_Prijs_MM = new System.Windows.Forms.Label();
+            this.label_Prijs_Mentos = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -223,11 +229,71 @@
             this.pictureBox4.TabIndex = 44;
             this.pictureBox4.TabStop = false;
             // 
+            // label_Prijs_Tosti_B
+            // 
+            this.label_Prijs_Tosti_B.AutoSize = true;
+            this.label_Prijs_Tosti_B.Location = new System.Drawing.Point(596, 321);
+            this.label_Prijs_Tosti_B.Name = "label_Prijs_Tosti_B";
+            this.label_Prijs_Tosti_B.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Tosti_B.TabIndex = 89;
+            this.label_Prijs_Tosti_B.Text = "€ 3,50";
+            // 
+            // label_Prijs_Tosti_HK
+            // 
+            this.label_Prijs_Tosti_HK.AutoSize = true;
+            this.label_Prijs_Tosti_HK.Location = new System.Drawing.Point(335, 321);
+            this.label_Prijs_Tosti_HK.Name = "label_Prijs_Tosti_HK";
+            this.label_Prijs_Tosti_HK.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Tosti_HK.TabIndex = 90;
+            this.label_Prijs_Tosti_HK.Text = "€ 2,50";
+            // 
+            // label_Prijs_Sandwich
+            // 
+            this.label_Prijs_Sandwich.AutoSize = true;
+            this.label_Prijs_Sandwich.Location = new System.Drawing.Point(63, 321);
+            this.label_Prijs_Sandwich.Name = "label_Prijs_Sandwich";
+            this.label_Prijs_Sandwich.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Sandwich.TabIndex = 91;
+            this.label_Prijs_Sandwich.Text = "€ 3,00";
+            // 
+            // label_Prijs_Pizza
+            // 
+            this.label_Prijs_Pizza.AutoSize = true;
+            this.label_Prijs_Pizza.Location = new System.Drawing.Point(596, 126);
+            this.label_Prijs_Pizza.Name = "label_Prijs_Pizza";
+            this.label_Prijs_Pizza.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Pizza.TabIndex = 92;
+            this.label_Prijs_Pizza.Text = "€ 4,00";
+            // 
+            // label_Prijs_MM
+            // 
+            this.label_Prijs_MM.AutoSize = true;
+            this.label_Prijs_MM.Location = new System.Drawing.Point(335, 126);
+            this.label_Prijs_MM.Name = "label_Prijs_MM";
+            this.label_Prijs_MM.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_MM.TabIndex = 93;
+            this.label_Prijs_MM.Text = "€ 3,50";
+            // 
+            // label_Prijs_Mentos
+            // 
+            this.label_Prijs_Mentos.AutoSize = true;
+            this.label_Prijs_Mentos.Location = new System.Drawing.Point(63, 126);
+            this.label_Prijs_Mentos.Name = "label_Prijs_Mentos";
+            this.label_Prijs_Mentos.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Mentos.TabIndex = 94;
+            this.label_Prijs_Mentos.Text = "€ 1,50";
+            // 
             // Eten
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(930, 473);
+            this.Controls.Add(this.label_Prijs_Mentos);
+            this.Controls.Add(this.label_Prijs_MM);
+            this.Controls.Add(this.label_Prijs_Pizza);
+            this.Controls.Add(this.label_Prijs_Sandwich);
+            this.Controls.Add(this.label_Prijs_Tosti_HK);
+            this.Controls.Add(this.label_Prijs_Tosti_B);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label_Tosti_Burger);
@@ -280,5 +346,11 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label_Tosti_Burger;
+        private System.Windows.Forms.Label label_Prijs_Tosti_B;
+        private System.Windows.Forms.Label label_Prijs_Tosti_HK;
+        private System.Windows.Forms.Label label_Prijs_Sandwich;
+        private System.Windows.Forms.Label label_Prijs_Pizza;
+        private System.Windows.Forms.Label label_Prijs_MM;
+        private System.Windows.Forms.Label label_Prijs_Mentos;
     }
 }

@@ -21,5 +21,10 @@ namespace CoffeeShop
         {
 
         }
+
+        private void label_Polm_Plus_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

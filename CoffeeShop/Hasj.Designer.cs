@@ -44,6 +44,11 @@
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.label_Prijs_Polm_Plus = new System.Windows.Forms.Label();
+            this.label_Prijs_Polm = new System.Windows.Forms.Label();
+            this.label_Prijs_Marroc = new System.Windows.Forms.Label();
+            this.label_Prijs_King_Hassan = new System.Windows.Forms.Label();
+            this.label_Prijs_Candy_Kush = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -122,6 +127,7 @@
             this.label_Polm_Plus.Size = new System.Drawing.Size(39, 13);
             this.label_Polm_Plus.TabIndex = 74;
             this.label_Polm_Plus.Text = "Polm +";
+            this.label_Polm_Plus.Click += new System.EventHandler(this.label_Polm_Plus_Click);
             // 
             // button2
             // 
@@ -192,11 +198,62 @@
             this.pictureBox4.TabIndex = 60;
             this.pictureBox4.TabStop = false;
             // 
+            // label_Prijs_Polm_Plus
+            // 
+            this.label_Prijs_Polm_Plus.AutoSize = true;
+            this.label_Prijs_Polm_Plus.Location = new System.Drawing.Point(313, 342);
+            this.label_Prijs_Polm_Plus.Name = "label_Prijs_Polm_Plus";
+            this.label_Prijs_Polm_Plus.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Polm_Plus.TabIndex = 89;
+            this.label_Prijs_Polm_Plus.Text = "€ 8,00";
+            // 
+            // label_Prijs_Polm
+            // 
+            this.label_Prijs_Polm.AutoSize = true;
+            this.label_Prijs_Polm.Location = new System.Drawing.Point(41, 342);
+            this.label_Prijs_Polm.Name = "label_Prijs_Polm";
+            this.label_Prijs_Polm.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Polm.TabIndex = 90;
+            this.label_Prijs_Polm.Text = "€ 5,50";
+            // 
+            // label_Prijs_Marroc
+            // 
+            this.label_Prijs_Marroc.AutoSize = true;
+            this.label_Prijs_Marroc.Location = new System.Drawing.Point(574, 142);
+            this.label_Prijs_Marroc.Name = "label_Prijs_Marroc";
+            this.label_Prijs_Marroc.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_Marroc.TabIndex = 91;
+            this.label_Prijs_Marroc.Text = "€ 4,50";
+            // 
+            // label_Prijs_King_Hassan
+            // 
+            this.label_Prijs_King_Hassan.AutoSize = true;
+            this.label_Prijs_King_Hassan.BackColor = System.Drawing.SystemColors.Control;
+            this.label_Prijs_King_Hassan.Location = new System.Drawing.Point(313, 142);
+            this.label_Prijs_King_Hassan.Name = "label_Prijs_King_Hassan";
+            this.label_Prijs_King_Hassan.Size = new System.Drawing.Size(37, 13);
+            this.label_Prijs_King_Hassan.TabIndex = 92;
+            this.label_Prijs_King_Hassan.Text = "€ 9,50";
+            // 
+            // label_Prijs_Candy_Kush
+            // 
+            this.label_Prijs_Candy_Kush.AutoSize = true;
+            this.label_Prijs_Candy_Kush.Location = new System.Drawing.Point(41, 142);
+            this.label_Prijs_Candy_Kush.Name = "label_Prijs_Candy_Kush";
+            this.label_Prijs_Candy_Kush.Size = new System.Drawing.Size(43, 13);
+            this.label_Prijs_Candy_Kush.TabIndex = 93;
+            this.label_Prijs_Candy_Kush.Text = "€ 12,00";
+            // 
             // Hasj
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(845, 536);
+            this.Controls.Add(this.label_Prijs_Candy_Kush);
+            this.Controls.Add(this.label_Prijs_King_Hassan);
+            this.Controls.Add(this.label_Prijs_Marroc);
+            this.Controls.Add(this.label_Prijs_Polm);
+            this.Controls.Add(this.label_Prijs_Polm_Plus);
             this.Controls.Add(this.label_Polm);
             this.Controls.Add(this.label_Polm_Plus);
             this.Controls.Add(this.button2);
@@ -243,5 +300,10 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label label_Prijs_Polm_Plus;
+        private System.Windows.Forms.Label label_Prijs_Polm;
+        private System.Windows.Forms.Label label_Prijs_Marroc;
+        private System.Windows.Forms.Label label_Prijs_King_Hassan;
+        private System.Windows.Forms.Label label_Prijs_Candy_Kush;
     }
 }
